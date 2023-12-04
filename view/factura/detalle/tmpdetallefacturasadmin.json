@@ -1,0 +1,18 @@
+[
+    {
+        "idTmpDetalle": 1,
+        "idConcepto": "3",
+        "concepto": "ANGULAR",
+        "cantidad": "2",
+        "unitario": "500000",
+        "sesion": "admin"
+    },
+    {
+        "idTmpDetalle": 2,
+        "idConcepto": "1",
+        "concepto": "PHP",
+        "cantidad": "1",
+        "unitario": "400000",
+        "sesion": "admin"
+    }
+]
